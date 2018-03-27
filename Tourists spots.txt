@@ -13,11 +13,7 @@ Parks - Burnham
 	 - bell ampititheater 
 	 - rose garden 
 	 - botanical garden, 
-	 - La Presa 
-	 - Radar 
-	 
-
-Farm - Strawberry Farm
+	 - bell church
 Market(for pasalubong)
 		-good shepherd
 		-block market
@@ -25,7 +21,7 @@ Market(for pasalubong)
 		-sm
 		
 museums - University Of The Philippines Baguio - Museo Kordilyera
-		- baguio museum
+		- baguio museum (Sunshine) 
 		- EMILIO F. AGUINALDO MUSEUM
 		- Bell House
 		
@@ -33,3 +29,15 @@ police stations
 	- Police station 3(Pacdal)
 	- Police Station  5(Legarda)
 	- Police Station 6 (Aurora Hill)
+
+church 
+	-Holy Family Church (Bakakeng) 
+	-Our Lady of Lourdes(Scout Barrio) 
+	-Our Lady of Atonement Cathedral(Cathedral)
+	-Saint Vincent Church(Naguillian)
+	-Seventh day adventist(Bokawkan)
+	-Grace Baptist(Marcos High way)
+	-St Joseph The worker parish church
+	- sta catalina spirituality center (marcos)
+	-Pink sisters(gov pack)
+	-Our Lady of Lourdes Church(Kisad rd)
