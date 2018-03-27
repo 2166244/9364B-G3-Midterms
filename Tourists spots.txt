@@ -1,0 +1,35 @@
+Parks - Burnham 
+	 - wright park, 
+	 - john hay, 
+	 - the mansion, 
+	 - mines view, 
+	 - orchidarium, 
+	 - sunshine park, 
+	 - igorot park, 
+	 - malcolm square
+	 - panagbenga park
+	 - christmas village
+	 - sm
+	 - bell ampititheater 
+	 - rose garden 
+	 - botanical garden, 
+	 - La Presa 
+	 - Radar 
+	 
+
+Farm - Strawberry Farm
+Market(for pasalubong)
+		-good shepherd
+		-block market
+		-Pasalubong center
+		-sm
+		
+museums - University Of The Philippines Baguio - Museo Kordilyera
+		- baguio museum
+		- EMILIO F. AGUINALDO MUSEUM
+		- Bell House
+		
+police stations 
+	- Police station 3(Pacdal)
+	- Police Station  5(Legarda)
+	- Police Station 6 (Aurora Hill)
