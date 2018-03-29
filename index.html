@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head>
+    	<link rel="stylesheet" href="../PWA/style.css">
+        <meta charset="utf-8" /> 
+        <title> Tourista </title>
+    </head>
+    
+<body>
+	<!-- for search button -->
+	<section class="search">
+			<form action="" method="">		    
+				<input type="search" placeholder="What are you looking for?">		    	
+				<button>Search</button>
+			</form>
+	</section>
+
+        <canvas id="mapCanvas" height="959" width="1125"; > </canvas>
+        <img id="baguioMap" src="../PWA/images/baguiomap.png" height="300"; />      		
+
+<script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyApuhtKdLn2sZwAlaKvuFtGJWP45zrIq2c",
+    authDomain: "tourista01006.firebaseapp.com",
+    databaseURL: "https://tourista01006.firebaseio.com",
+    projectId: "tourista01006",
+    storageBucket: "tourista01006.appspot.com",
+    messagingSenderId: "883067316503"
+  };
+  firebase.initializeApp(config);
+</script>
+<script type="text/javascript" src="../PWA/script.js"></script>
+
+</body>
+</html>
+
