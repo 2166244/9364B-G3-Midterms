@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        var speed = 20;
+        
+        function showImage (src){
+            var div = document.createElement("div");
+            with (div.style) {
+                width = "600px";
+                height = "600px";
+                textAlign = "center";
+                overflow = "hidden";
+            }
+            document.body.appendChild(div);
+            img = document.createElement("img");
+            img.src = src;
+            img.width = 600;
+            img.height = 600;
+            div.appendChild(img);
+        }
+        
+        function keyDown(key){
+            var k = 0;
+            if (key == 187) k = speed;
+            if (key == 189) k = -speed;
+            if (key != 0) {
+                img.width = img.width + k;
+                img.height = img.height + k;
+                img.style.margin = ((600 - img.height) /2).toString() + "px";
+            }
+        }
+    </script>
+</head>
+    <body onKeyDown="keyDown(event.keyCode)" onload="showImage('baguiomap.png')">
+    </body>
+</html>
