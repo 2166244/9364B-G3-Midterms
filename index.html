@@ -1,38 +1,68 @@
-<!DOCTYPE html> 
-<html lang="en"> 
-    <head>
-    	<link rel="stylesheet" href="../PWA/style.css">
-        <meta charset="utf-8" /> 
-        <title> Tourista </title>
-    </head>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Tourista</title>
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="../PWA2/src/styles/style.css">
+  <link rel="manifest" href="../PWA2/manifest.json">
+</head>
+ <body>
+<div>
+     <div class="header">
+        <div class="logo"> 
+                <img src="../PWA2/src/images/logo.png" alt= "Tourista Logo">
+        </div>
+         
+           <div class="search">
+              <input type="text" class="searchTerm" placeholder="What are you looking for?">
+              <button type="submit" class="searchButton">
+                <i class="fa fa-search"></i>
+             </button>
+           </div>
+     </div>
+     
+     <div class="park">
+        <img src="../PWA2/src/images/park.jpg" id="parkword">
+         
+        <div id="park1"> 
+            <img src="../PWA2/src/images/park.png">
+        </div>
+          
+     </div>
     
-<body>
-	<!-- for search button -->
-	<section class="search">
-			<form action="" method="">		    
-				<input type="search" placeholder="What are you looking for?">		    	
-				<button>Search</button>
-			</form>
-	</section>
-
-        <canvas id="mapCanvas" height="959" width="1125"; > </canvas>
-        <img id="baguioMap" src="../PWA/images/baguiomap.png" height="300"; />      		
-
-<script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyApuhtKdLn2sZwAlaKvuFtGJWP45zrIq2c",
-    authDomain: "tourista01006.firebaseapp.com",
-    databaseURL: "https://tourista01006.firebaseio.com",
-    projectId: "tourista01006",
-    storageBucket: "tourista01006.appspot.com",
-    messagingSenderId: "883067316503"
-  };
-  firebase.initializeApp(config);
-</script>
-<script type="text/javascript" src="../PWA/script.js"></script>
-
+    <div class="church">
+        <img src="../PWA2/src/images/church.jpg" id="parkword">
+         
+        <div id="park1"> 
+            <img src="../PWA2/src/images/church1.png">
+        </div>
+          
+     </div>
+    
+    <div class="museum">
+        <img src="../PWA2/src/images/museum.jpg" id="parkword">
+         
+        <div id="park1"> 
+            <img src="../PWA2/src/images/museum1.png">
+        </div>
+          
+     </div>
+    
+    <div class="Market">
+        <img src="../PWA2/src/images/market.jpg" id="parkword">
+         
+        <div id="park1"> 
+            <img src="../PWA2/src/images/market1.png">
+        </div>
+          
+     </div>
+     
+</div>
+     
+<script type="text/javascript" src="../PWA2/src/script/app.js"></script>     
 </body>
 </html>
-
