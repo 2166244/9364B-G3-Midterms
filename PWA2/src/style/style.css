@@ -22,6 +22,15 @@ img{
     margin: auto;
     padding-bottom: 15px;
 }
+.desimage{
+	border = 1px solid black;
+	width: 120px;
+	height: 120px;
+	float: left;
+	margin 3px;
+	padding: 3px;
+	
+}
 
 .park{
   margin: auto;
@@ -35,6 +44,46 @@ img{
     padding-left: 40px;
     font-size: 2.3em; 
 }
+
+.church{
+	margin: auto;
+	padding: 0px;
+}
+
+.church > h1{
+	margin: auto;
+	padding: 50px;
+	padding-left: 40px;
+	font-size: 2.3em;
+}
+
+.market{
+	margin:auto;
+	padding:0px;
+}
+
+.market > h1{
+	margin: auto;
+	padding: 0px;
+	padding-left: 40px;
+	font-size: 2.3 em;
+}
+
+.museum{
+	margin:auto;
+	padding:0px;
+}
+
+.museum > h1{
+	margin: auto;
+	padding: 0px;
+	padding-left: 40px;
+	font-size: 2.3 em;
+}
+
+.museumtext{
+	color
+}	
 
 header { 
   padding: .5vw;
