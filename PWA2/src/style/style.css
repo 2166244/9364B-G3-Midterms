@@ -11,6 +11,15 @@ body,html{
     padding-bottom: 80px;
     overflow: hidden;
 }
+
+body{
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeatl
+	height: 100%;
+	overflow: hidden;
+}
+
 .logo {
     padding, margin: 0px;
 }
@@ -64,9 +73,7 @@ img{
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
-.wbody{
-	margin-left: 12vw ;
-}
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -85,11 +92,12 @@ img{
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white;
+  color: black;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
+  background-color: #037aad;
 }
 
 /* Position the "next button" to the right */
