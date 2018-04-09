@@ -39,6 +39,7 @@
     width: 800px;
     margin-left: auto;
     margin-right: auto;
+    display:block;
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
