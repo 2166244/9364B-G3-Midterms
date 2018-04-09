@@ -1,4 +1,4 @@
-window.onload = function(){
+/*window.onload = function(){
 	            var canvas = document.getElementById("mapCanvas");
 	            var ctx = canvas.getContext("2d");
 	            
@@ -6,7 +6,7 @@ window.onload = function(){
 	            ctx.drawImage(pic, 0,0);
 }
 
-(function() {
+/**(function() {
   var boxes = document.getElementsByClassName("image-box");
   
   Array.prototype.forEach.call(boxes, function(box) {
@@ -26,6 +26,15 @@ window.onload = function(){
       btn.classList.remove("show");
     });
   });
-})();
+})();*/
+
+function openNav(){
+	document.getElementById("sidenavbar").style.width = "250px";
+}
+
+function closeNav(){
+	document.getElementById("sidenavbar").style.width = "0px";
+}
+
 
 
