@@ -1,0 +1,23 @@
+bell church		520,645,538,664
+
+botanical garden	80,355,117,395
+
+children's park		465,366,510,450
+
+christmas village 	77,153,121,202
+
+john_hay		324,77,350,111
+
+mansion_house		53,259,95,300
+
+mines_view		54,376,84,408
+
+panagbenga_park		162,95,215,155
+
+sm			420,90,480,155
+
+sunshine park 		355,95,415,168
+			
+			
+
+
