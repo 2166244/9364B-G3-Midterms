@@ -35,8 +35,10 @@
     
 }
 
-#map {
-    width: 50%;
+.map {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
