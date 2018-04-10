@@ -144,8 +144,8 @@ data = '[\
     "heading" : "Good Shepherd",\
     "desc" : "The store is popularly known for the different products made by the Good Shepherd nuns and visitors coming up to the city who are familiar with items sold in the store always make it a point buy something to take back home. Among the most sought items are fruit preserves, strawberry and ube jams, cashew and peanut brittle, and coco jam. Most of their products are also sold by different stalls in the Baguio Public Market and at various other outlets within the city. The money generated from the sale of their products is used for the different charities sponsored by the Good Shepherd nuns and also for the maintenance and upkeep of the convent.",\
     "why_go" : "It is a place where college and high school students from Catholic institutions spend their retreats. At one end of the parking lot is an observation deck where one gets to see the distant Cordillera mountains and a valley below which are similarly visible from the Mines View Park.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/parks/market.png",\
+    "coord" : "",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Market/Good-Shepherd.JPG"\
@@ -154,8 +154,8 @@ data = '[\
     "heading" : "Black Market",\
     "desc" : "So, if you need to have a shoe re-soled or have your dollars changed, if you want to buy zucchini or sayote, romaine lettuce or kangkong, or perhaps buy yourself a bottle of Cordillera rice wine (called tapuey, sometimes tapuy or tapey) our market has it all. Rich and poor, everyone goes to the same market. Now that is really nice, is it? Located in the heart of the city, the market is at the base of Session Road on Magsaysay Avenue, near Burnham Park. Adjacent to it is the Maharlika Livelihood Center that complements the market with boutiques and other specialty shops, money changers, antique dealers, furniture stores, beauty parlors and other shops. A side entrance to Maharlika can be accessed via the city market dry goods section.",\
     "why_go" : "There are lots of stuffs to buy their cheaper than when you buy it from grocery store, and you can also do “tawad” or negotiate the price from the seller.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/parks/market.png",\
+    "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is just inside the Baguio City Public Market located in Rajah Soliman and just ask some vendors for directions.",\
     "jeep_loc" : "../terminal/Market/pwa_logo.png"\
@@ -164,8 +164,8 @@ data = '[\
     "heading" : "Pasalubong Center",\
     "desc" : "Pasalubong varies from the local delicacies found only in the place that you are visiting or their specialty products such as bags, clothes, footwear and souvenir items like key chain, ref magnets, mats, bags and others. Baguio is one of the best places to buy pasalubong for your families back home or souvenirs like wood carvings like the famous and Barrel Man to the the truly Pinoy, Walis Tambo. There are dozens and dozens more of Baguio pasalubong that you can buy almost everywhere in the City of Pines. Many of them are unique to Baguio such as Strawberries and Strawberry- based products like jams, preserves and wine, to fresh vegetables like broccoli and cauliflower, to  cheap sterling silver accessories, warm clothes like chaleco and cardigans, and even ukay ukay finds like branded handbags, shirts and shoes. You can find lot of places where you can buy affordable Baguio Souvenirs and Pasalubong. What is good about these are, most of these shops sell these goods at almost the same price.",\
     "why_go" : "Pasalubong shopping is also one of the most awaited part of every Filipino traveler when on a trip or vacation. Every Pinoy wants to share what they seen and experience during their travels, thus they need to buy pasalubong  and souvenirs for their families and friends.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/parks/market.png",\
+    "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "There are many pasalubong vendors inside the Baguio City Public market located in Rajah Soliman and you could just stroll around and look for the pasalubong you want to buy.",\
     "jeep_loc" : "../terminal/Market/pwa_logo.png"\
@@ -174,8 +174,8 @@ data = '[\
     "heading" : "SM",\
     "desc" : "Similar to other SM around Philippines but here you could feel the breeze with its open air conditioning where the air is the mall is natural.",\
     "why_go" : "It is not just the ordinary mall you would go to because here there is a view of a good landscape.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/parks/sm.png",\
+    "coord" : "420,90,480,155",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Greenwater jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
     "jeep_loc" : "../terminal/Market/SM.JPG"\
@@ -184,8 +184,8 @@ data = '[\
     "heading" : "University of the Philippines - Museo Kordilyera",\
     "desc" : "Description of the tourist spot: The museum focuses on the collection, preservation and display of objects associated with the unique societies and cultures of the Cordillera region. The Museo Cordillera is a three-level structure with only its reception level visible on the surface which follows the University’s policy that the structures should integrate with the University’s terrain and topography for sustainability and preservation of ecology.",\
     "why_go" : "It is the most recent museum to open in Baguio which means most of what you will see here is new to the eyes. If you are interested in ethnography, then this is a place you shouldn’t miss.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/museums/museo_kordilyera.png",\
+    "coord" : "350,68,400,123",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Museum/UP.JPG"\
@@ -194,8 +194,8 @@ data = '[\
     "heading" : "Baguio Museum",\
     "desc" : "The museum holds not only Baguio’s history but the Cordilleras and a bit of Ifugaos as well. On the main level of the museum, which is located on the second floor is a spread of artifacts from the region abound. On the other side, there are two detailed dioramas of various Cordilleran and Ifugao scenes displayed. On the ground floor, there are exhibits regarding the early years of the Americans in Baguio. The third floor of the Baguio Museum holds a detailed history of the city, from its pre-American period up to the current one. There are also old photographs of the city, complete with historical annotations of how the Americans discovered it and how the city came to be.",\
     "why_go" : "Baguio is full of cultures and traditions which are too interesting not to learn about it. Baguio Museum offers artifacts, exhibits, and detailed history of not only Baguio but Cordillera and Ifugao as well. This is not the ordinary museum but it is a museum that tells the story of a beautiful place called Baguio. ",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/museums/baguio_museum.png",\
+    "coord" : "290,100,365,178",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Museum/Baguio-Museum.JPG"\
@@ -204,8 +204,8 @@ data = '[\
     "heading" : "Aguinaldo Museum",\
     "desc" : "The Aguinaldo Museum was established in 1985 by Cristina Suntay, a daughter of revolutionary figure, Emilio Aguinaldo and former resident of Baguio to host what the family claims to be the first Philippine flag. The temperature and dim lighting of the room where the flag is displayed is regulated as part of the preservation efforts on the flag. In 2011, it was reported that the flag may still be in a good viewing state for 20 to 30 years.",\
     "why_go" : "Aguinaldo Museum holds the most symbolic artifact in the Philippines, the Philippine flag. Not only does it possess the Philippine flag but artifacts of the first President of the Philippines such as desks, armors, and weapons. It is a place filled with meaningful artifacts not everyone get the opportunity to see.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/museums/aguinaldo.png",\
+    "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located in Gen. Luna road near Cathedral. Either you walk to go there or you could just take the cab.",\
     "jeep_loc" : "../terminal/Museum/pwa_logo.png"\
@@ -214,8 +214,8 @@ data = '[\
     "heading" : "Bell House Museum",\
     "desc" : "Bell House was named after Major General J. Franklin Bell who lived in that house as the commanding General of the American Forces in the Philippines. From 1911-1914, General Bell transformed camp John Hay from essentially a small convalescent facility into a major military resort (Robert Reed).",\
     "why_go" : "Not only does Bell house museum house historical items such as totem poles, it is surrounded with places such as Cemetery of Negativism, and it is also located in Camp John Hay, one of the most visited places in Baguio. Going to Bell House museum is definitely worth it considering the places located around it. ",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/museums/bell_house.png",\
+    "coord" : "140,87,190,144",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Museum/Bell-House-Museum.JPG"\
@@ -224,7 +224,7 @@ data = '[\
     "heading" : "Baguio Cathedral",\
     "desc" : "The rose-colored Baguio Catholic Cathedral, located on top of a hill in the heart of the city, is one of the more familiar and most visited landmarks of Baguio. This beautiful structure has twin spires and is one of the most photographed buildings in the city. From Session Road it is accessible by pedestrians who ascend a long concrete stairway of more than a hundred steps. Visitors and churchgoers who would rather avoid the difficult climb drive vehicles through an access road which passes behind the nearby post office building.",\
     "why_go" : "The Baguio Cathedral is the biggest catholic church in Baguio and is the center of religious activities such as during the Holy Week when thousands of devotees from Metro Manila and the provinces come up to the city. During Sundays and other special holidays of the catholic church, you will find vendors along the stairway and also at the church open patio selling flowers, balloons, newspapers, sweepstake tickets, candles, rosary beads, and other religious articles. Visitors desiring to visit Baguio on a tour should avoid coming up to the city during this religious week. Not only is the city crowded with people, it is difficult to find rooms in hotels and inns and the prices of native handicraft, souvenirs, vegetables, flowers, food, and other commodities & services are rather expensive.",\
-    "map" : "../maps/parks/wright_park.png",\
+    "map" : "../maps/churches/cathedral.png",\
     "coord" : "184,384,218,420",\
     "fare" : "N/A",\
     "jeep_desc" : "No need to take a jeepney when you are in town because it is just located beside Porta Vaga Mall.",\
@@ -234,8 +234,8 @@ data = '[\
     "heading" : "Our Lady Of Lourdes",\
     "desc" : "Our Lady of Lourdes is a Roman Catholic title of the Blessed Virgin Mary venerated in honour of the Marian apparitions that reportedly occurred in 1858 in the vicinity of Lourdes in France. Apart from its Beautiful altar, the church also houses a replica of the Grotto of Lourdes in France. Its construction was ordered by former first lady Aurora Quezon in 1939.",\
     "why_go" : "Lourdes has become a place of pilgrimage and healing, but even more of faith. Church authorities have recognized over 60 miraculous cures, although there have probably been many more. To people of faith this is not surprising. It is a continuation of Jesus’ healing miracles—now performed at the intercession of his mother. Some would say that the greater miracles are hidden. Many who visit Lourdes return home with renewed faith and a readiness to serve God in their needy brothers and sisters.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/churches/lourdes_parish.png",\
+    "coord" : "242,33,298,97",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Churches/Our-Lady-Of-Lourdes.JPG"\
@@ -244,8 +244,8 @@ data = '[\
     "heading" : "Saint Vincent Church",\
     "desc" : "Saint Vincent is a Roman Catholic church located at Naguilian Rd., Baguio City. ",\
     "why_go" : "Another church to go if you are having retreat or visita igleisa during holy week or just attend a normal holy mass.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/churches/st_vincent.png",\
+    "coord" : "",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Quezon Hill jeepney located in Kayang Street.",\
     "jeep_loc" : "../terminal/Churches/St-Vincent.JPG"\
@@ -254,8 +254,8 @@ data = '[\
     "heading" : "Pink Sisters",\
     "desc" : "Pink Sisters Convent is a great place for meditation since it is away from the hustle and bustle of the main streets of Baguio City.",\
     "why_go" : "After along day of stress from work or school, you can go tho Pink Sisters Church for a different kind of meditation, freeing yourself from stress and releasing bad vibes that came over you.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/churches/pink_sisters.png",\
+    "coord" : "264,323,321,385",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Churches/Pink-Sisters.JPG"\
@@ -264,8 +264,8 @@ data = '[\
     "heading" : "Holy Family Church",\
     "desc" : "Holy Family Parish is famous church located in Bakakeng North Rd, Baguio City, where everyone can come to visit to pray and to have worship, as many devotees attend mass on this church.",\
     "why_go" : "As many devotees are coming to attend mass, you may attend mass here as a family, group or just you, so that you and your family may also be blessed as the devotees going to this church.",\
-    "map" : "../maps/parks/wright_park.png",\
-    "coord" : "184,384,218,420",\
+    "map" : "../maps/churches/holy_family.png",\
+    "coord" : "467,51,498,84",\
     "fare" : "Php 8.00 (Students/S.C./PWD) <br> Php 10.00 (Regular)",\
     "jeep_desc" : "Igorot Park across the terminal of BGH/Campo Sioco and take Bakakeng jeepney and ask the conductor if it would go pass through the Church.",\
     "jeep_loc" : "../terminal/Churches/Holy-Family-Church.jpg"\
