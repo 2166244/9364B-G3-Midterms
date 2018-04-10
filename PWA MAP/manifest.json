@@ -1,0 +1,10 @@
+data = '[\
+{\
+    "heading" : "Bell Church",\
+    "desc" : "ASDASDASDASDAS",\
+    "map" : "MAPS/PARKS/bell_church.png",\
+    "coord" : "520,645,538,664"\
+},{\
+    "heading" : "SM",\
+    "desc" : "ASDASDASDASDAS"\
+}]';
