@@ -5,7 +5,9 @@ data = '[\
     "desc" : "The Bell House & Bell Amphitheater is the best place to go to especially if you want to know more about the history of the popular Camp John Hay. It was named after the person who is responsible for the majority of Camp John Hay’s structure Major General James Franklin Bell. Lucky enough, The Bell House was preserved and it is a part of the Camp John Hay Historical Core.",\
     "why_go" : "adsdasdasdsadas",\
     "map" : "../maps/parks/bell_ampi.png",\
-    "coord" : "85,97,127,137"\
+    "coord" : "85,97,127,137",\
+    "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney."\
 },{\
     "id" : "1",\
     "heading" : "Bell Church",\
