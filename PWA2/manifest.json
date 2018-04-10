@@ -4,6 +4,7 @@ data = '[\
     "heading" : "Bell Ampitheater",\
     "desc" : "The Bell House & Bell Amphitheater is the best place to go to especially if you want to know more about the history of the popular Camp John Hay. It was named after the person who is responsible for the majority of Camp John Hay’s structure Major General James Franklin Bell. Lucky enough, The Bell House was preserved and it is a part of the Camp John Hay Historical Core.",\
     "why_go" : "adsdasdasdsadas",\
+    "when" : "",\
     "map" : "../maps/parks/bell_ampi.png",\
     "coord" : "85,97,127,137",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
@@ -13,6 +14,7 @@ data = '[\
     "heading" : "Bell Church",\
     "desc" : "It is during the Spring Festival or what is more commonly known in the West as the Chinese New Year that local and foreign Chinese tourists flock to the Bell Church. Like all Chinese festivals, the date of the new year is determined by the lunar/solar calendar rather than the Gregorian calendar. The observance of the holiday falls on a different date each year and it usually varies from late January to the middle of February. This Chinese public holiday is usually observed for 3 days although the festival traditionally starts with the new moon on the first day of the new year and ends on the full moon 15 days later. The 15th day of the new year is called the Lantern Festival which is celebrated at night with lantern displays and children carrying lanterns in a parade.",\
     "why_go" : "It has a pagoda, and beautifully landscaped gardens. There are some artifacts about Buddhism that you will find at the Bell Church as well as some literature about the history of China.",\
+    "when" : "",\
     "map" : "../maps/parks/bell_church.png",\
     "coord" : "520,645,538,664"\
 },{\
@@ -20,6 +22,7 @@ data = '[\
     "heading" : "Botanical Garden",\
     "desc" : "Also known as the Igorot Village, the Botanical Garden features native huts typical of the type of Igorot dwellings found in the Cordilleras. The village is said to capture the ethnic spirit and cultural legacy of the Igorots and being tranquil and quiet, it is a nice place to just sit down and relax, take a leisurely stroll along its narrow and winding pathways and also enjoy the landscape where you will find numerous plants and trees",\
     "why_go" : "Some years back Igorot dances and rituals were held in an improvised outdoor stage within the village. Local students go to the Botanical Garden for a day of retreat or just enjoy the outdoor environment. When visiting the Botanical Garden, you will usually find a group of Igorots at the main entrance who are dressed in their authentic native attire and regalia. They will be more than happy to pose with visitors for a souvenir picture ... of course, for a fee.",\
+    "when" : "",\
     "map" : "../maps/parks/botanical_garden.png",\
     "coord" : "70,345,122,397"\
 },{\
@@ -27,6 +30,7 @@ data = '[\
     "heading" : "Childrens Park",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/childrens_park.png",\
     "coord" : ""\
 },{\
@@ -34,13 +38,15 @@ data = '[\
     "heading" : "Christmas Village",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/christmas_village.png",\
     "coord" : "75,154,120,203"\
 },{\
     "id" : "5",\
     "heading" : "Igorot Park",\
-    "desc" : "",\
-    "why_go" : "",\
+    "desc" : "A small manicured garden area with a central podium of 5 Ifugao warrior statues poised with spears and cutting weapons as a reflection of the tribal past of the Cordillera Mountains. A simple introduction to the historical background of a proud and conscious people who believe that the environment is brim full of Gods at every level, including Bulol the Rice God who continues to feed the Nation.",\
+    "why_go" : "The famous men activity here is the board game, chess. From morning to eve you can see the men playing the game. The statue speaks for itself! Its a good place not to miss.",\
+    "when" : "Everytime it is available, either by day or at night, it is still mesmerizing.",\
     "map" : "../maps/parks/igorot_park.png",\
     "coord" : ""\
 },{\
@@ -48,6 +54,7 @@ data = '[\
     "heading" : "Camp John Hay",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/john_hay.png",\
     "coord" : "324,81,350,106"\
 },{\
@@ -55,6 +62,7 @@ data = '[\
     "heading" : "Malcolm Square",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/malcolm_square.png",\
     "coord" : ""\
 },{\
@@ -62,6 +70,7 @@ data = '[\
     "heading" : "The Mansion House",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/mansion_house.png",\
     "coord" : "55,259,95,302"\
 },{\
@@ -69,6 +78,7 @@ data = '[\
     "heading" : "Mines View Park",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/mines_view.png",\
     "coord" : "52,375,84,408"\
 },{\
@@ -76,6 +86,7 @@ data = '[\
     "heading" : "Baguio Orchidarium",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/orchidarium.png",\
     "coord" : ""\
 },{\
@@ -83,6 +94,7 @@ data = '[\
     "heading" : "Panagbenga Park",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/panagbenga_park.png",\
     "coord" : "160,95,215,155"\
 },{\
@@ -90,6 +102,7 @@ data = '[\
     "heading" : "Baguio Rose Garden",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/rose_garden.png",\
     "coord" : ""\
 },{\
@@ -97,6 +110,7 @@ data = '[\
     "heading" : "Sunshine Park",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/sunshine_park.png",\
     "coord" : "350,92,420,165"\
 },{\
@@ -104,6 +118,7 @@ data = '[\
     "heading" : "Wright Park",\
     "desc" : "",\
     "why_go" : "",\
+    "when" : "",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420"\
 }]';

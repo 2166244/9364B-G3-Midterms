@@ -3,14 +3,6 @@ body,html{
     font-family: "Raleway", sans-serif;
 }
 
-.header{ 
-    background-image: url(../images/baguioback.jpg);
-    background-repeat: no-repeat; 
-    background-size: cover;
-    padding-top: 10px;
-    padding-bottom: 80px;
-    overflow: hidden;
-}
 .logo {
     padding, margin: 0px;
 }
@@ -77,6 +69,7 @@ header {
     width: 100%;
     height: auto;
 }
+
 header div { 
     -webkit-box-flex: auto;
     -ms-flex: auto;
@@ -85,9 +78,21 @@ header div {
     height: auto;
     margin: .5vw; 
 }
+
 header div img { 
     width: 100%; 
     height: auto; 
+}
+
+
+
+.headerhome{ 
+    background-image: url(/src/images/baguioback.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    overflow: hidden;
 }
 
 @media screen and (max-width: 400px) {
