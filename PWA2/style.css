@@ -7,6 +7,10 @@ body,html{
     padding, margin: 0px;
 }
 
+.terminal {
+    width: 500px;
+}
+
 img{
     width: 100px;
     height: auto;
@@ -153,8 +157,16 @@ h1 {
     font-weight: bold;
 }
 
+.desc h1 {
+    color: saddlebrown;
+}
 
-@media (min-width: 1000px){
+.desc p{
+    text-indent: 1em;
+    text-align: justify;
+}
+
+@media (min-width: 500px){
 
     .desc h1 {
         font-size: 2em;
@@ -171,6 +183,26 @@ h1 {
         display: block;
         margin-left: auto;
         margin-right: auto;
+    }
+}
+
+@media (max-width: 499px){
+
+    .desc h1 {
+        font-size: 2em;
+    }
+    
+    .desc p {
+        font-size: 1.5em;
+    }
+    
+    .desc {
+        background-color: transparent !important;
+        width: 100%;
+        height: auto;
+        display: block;
+        padding-left: 1em;
+        padding-right: 1em;
     }
 }
 
@@ -207,7 +239,7 @@ a:visited{
 }
 .modal__content{
     width: 75%;
-    height: 65%;
+    height: auto;
     background-color: #fff;
     position: absolute;
     top: 50%;

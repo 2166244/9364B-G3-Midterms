@@ -8,7 +8,8 @@ data = '[\
     "map" : "../maps/parks/bell_ampi.png",\
     "coord" : "85,97,127,137",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney."\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
+    "jeep_loc" : "../terminal/parks/bell-ampitheatre.jpg"\
 },{\
     "id" : "1",\
     "heading" : "Bell Church",\
