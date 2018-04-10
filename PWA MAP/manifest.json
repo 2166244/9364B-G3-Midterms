@@ -1,7 +1,8 @@
 data = '[\
 {\
+    "id" : "0",\
     "heading" : "Bell Church",\
-    "desc" : "ASDASDASDASDAS",\
+    "desc" : "It is during the Spring Festival or what is more commonly known in the West as the Chinese New Year that local and foreign Chinese tourists flock to the Bell Church. Like all Chinese festivals, the date of the new year is determined by the lunar/solar calendar rather than the Gregorian calendar. The observance of the holiday falls on a different date each year and it usually varies from late January to the middle of February. This Chinese public holiday is usually observed for 3 days although the festival traditionally starts with the new moon on the first day of the new year and ends on the full moon 15 days later. The 15th day of the new year is called the Lantern Festival which is celebrated at night with lantern displays and children carrying lanterns in a parade.",\
     "map" : "MAPS/PARKS/bell_church.png",\
     "coord" : "520,645,538,664"\
 },{\
