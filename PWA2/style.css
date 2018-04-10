@@ -225,6 +225,23 @@ a:link,
 a:visited{
     text-decoration: none;
 }
+
+.home_link {
+    background-color: #cdcdcd;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-left: 1em;
+    height: auto;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.home_link a {
+    color: #155765;
+    font-size: 1.5em;
+    font-weight: bold;
+    
+}
 .modal{
     background-color: rgba(0,0,0, .8);
     height: 100vh;
