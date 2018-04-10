@@ -17,7 +17,7 @@ data = '[\
     "map" : "../maps/parks/bell_church.png",\
     "coord" : "520,645,538,664",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "La Trinidad" jeepney just in front of City Hall.",\
+    "jeep_desc" : "Take the La Trinidad jeepney just in front of City Hall.",\
     "jeep_loc" : "../terminal/Parks/Bell-Church.JPG"\
 },{\
     "id" : "2",\
@@ -27,7 +27,7 @@ data = '[\
     "map" : "../maps/parks/botanical_garden.png",\
     "coord" : "70,345,122,397",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop..",\
+    "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop..",\
     "jeep_loc" : "../terminal/Parks/Botanical-Garden.JPG"\
 },{\
     "id" : "3",\
@@ -37,12 +37,12 @@ data = '[\
     "map" : "../maps/parks/christmas_village.png",\
     "coord" : "75,154,120,203",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Country Club" jeepney located in Bayanihian just across the terminal of Crystal Cave. Take note that Christmas Village is only open DURING the Christmas season.",\
+    "jeep_desc" : "Take the Country Club jeepney located in Bayanihian just across the terminal of Crystal Cave. Take note that Christmas Village is only open DURING the Christmas season.",\
     "jeep_loc" : "../terminal/Parks/Christmas-Village.JPG"\
 },{\
     "id" : "4",\
     "heading" : "Igorot Park",\
-    "desc" : "A small manicured garden area with a central podium of 5 Ifugao warrior statues poised with spears and cutting weapons as a reflection of the tribal past of the Cordillera Mountains. A simple introduction to the historical background of a proud and conscious people who believe that the environment is brim full of Gods at every level, including 'Bulol' the Rice God who continues to feed the Nation.",\
+    "desc" : "A small manicured garden area with a central podium of 5 Ifugao warrior statues poised with spears and cutting weapons as a reflection of the tribal past of the Cordillera Mountains. A simple introduction to the historical background of a proud and conscious people who believe that the environment is brim full of Gods at every level, including Bulol the Rice God who continues to feed the Nation.",\
     "why_go" : "The famous men activity here is the board game, chess. From morning to eve you can see the men playing the game. The statue speaks for itself! It is good place not to miss.",\
     "map" : "../maps/parks/igorot_park.png",\
     "coord" : "",\
@@ -50,19 +50,19 @@ data = '[\
     "jeep_desc" : "Just near burnham and where most of the terminals are near at.",\
     "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
-    "id" : "5",\
+"id" : "5",\
     "heading" : "Camp John Hay",\
     "desc" : "Camp John Hay used to be the rest and recreational facility for employees of the military and Department of Defense of the United States. This 690-hectare property was turned over to the Philippine government in July 1, 1991 and was initially administered by the Philippine Tourism Authority and then turned over to the Bases Conversion Development.",\
     "why_go" : "For those interested in playing golf, Camp John Hay has a 5,330-yard, 18-hole, par-68 golf course which is one of the best in the country. There is a new golf clubhouse which has a restaurant and function rooms that cater to golfers, visitors, and also the local residents of Baguio. Around the complex there are beautiful gardens, picnic areas, parks, an amphitheatre, and hiking trails that wind through the rolling hills and pine trees within the former military reservation.",\
     "map" : "../maps/parks/john_hay.png",\
     "coord" : "324,81,350,106",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Parks/Camp-John-Hay.JPG"\
 },{\
     "id" : "6",\
     "heading" : "Rose Garden",\
-    "desc" : "A The development of Rose Garden was based on the Burnham Park Master Development Plan donated by the University of the Cordilleras (UC) to the City of Baguio. According to the website of UC, the plan they have given to the city incorporates “Green Architectures and Sustainable and Organic approach” in its planning and design.",\
+    "desc" : "A The development of Rose Garden was based on the Burnham Park Master Development Plan donated by the University of the Cordilleras (UC) to the City of Baguio. According to the website of UC, the plan they have given to the city incorporates Green Architectures and Sustainable and Organic approach in its planning and design.",\
     "why_go" : "Rose Garden can now live up to its name as it is now surrounded with roses. The roses in different colors were dominant in the garden as it can be seen all around. Seats are also provided for those who visit the garden. There are also spaces provided wherein groups of teenagers may practice dance steps and play some sports like badminton. During the nights, the garden is lightened up with LED lights. The garden is also equipped with speakers to add more feeling to the ambiance, so visitors can sing along with the music.",\
     "map" : "../maps/parks/malcolm_square.png",\
     "coord" : "",\
@@ -77,7 +77,7 @@ data = '[\
     "map" : "../maps/parks/mansion_house.png",\
     "coord" : "55,259,95,302",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
+    "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Parks/Mansion.JPG"\
 },{\
     "id" : "8",\
@@ -87,12 +87,12 @@ data = '[\
     "map" : "../maps/parks/mines_view.png",\
     "coord" : "52,375,84,408",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
+    "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Parks/Mines-View.JPG"\
 },{\
     "id" : "9",\
     "heading" : "Baguio Orchidarium",\
-    "desc" : "The Orchidarium is located towards the end part of the adult biking area near Kisad road. Unlike other parts of the park, the Orchidarium is usually less crowded. You will enjoy this area if you love flowers and greens. The Orchidarium contains hundreds of different kinds of plants. It is filled with landscapes and some water elements. There are also some benches for you to rest. It’s a green sanctuary in the middle of a busy city.",\
+    "desc" : "The Orchidarium is located towards the end part of the adult biking area near Kisad road. Unlike other parts of the park, the Orchidarium is usually less crowded. You will enjoy this area if you love flowers and greens. The Orchidarium contains hundreds of different kinds of plants. It is filled with landscapes and some water elements. There are also some benches for you to rest. Its a green sanctuary in the middle of a busy city.",\
     "why_go" : "The Orchidarium is not just a marketplace for orchids. It also sells other species, including the exotic kind. Prices for the plants can range anywhere from Php 500 to Php 2500, depending on the variety, size, age, and rarity of breed. Some of the more common variety, however, can cost as low as Php10. There are also non-flowering plants available. Apart from plants, The Orchidarium sells other items, such as herbal teas, edible flowers, herbs, natural sweeteners and other organic supplies. Some of the best ingredients for a home-cooked meal are also available here – sage, rosemary, thyme, basil, oregano and rosemary. So whenever you are in Baguio, make sure to include The Orchidarium in your itinerary.",\
     "map" : "../maps/parks/orchidarium.png",\
     "coord" : "",\
@@ -107,17 +107,17 @@ data = '[\
     "map" : "../maps/parks/panagbenga_park.png",\
     "coord" : "160,95,215,155",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Parks/Panagbenga-Park.JPG"\
 },{\
     "id" : "11",\
     "heading" : "Baguio Rose Garden",\
-    "desc" : "A The development of Rose Garden was based on the Burnham Park Master Development Plan donated by the University of the Cordilleras (UC) to the City of Baguio. According to the website of UC, the plan they have given to the city incorporates “Green Architectures and Sustainable and Organic approach” in its planning and design.",\
+    "desc" : "A The development of Rose Garden was based on the Burnham Park Master Development Plan donated by the University of the Cordilleras (UC) to the City of Baguio. According to the website of UC, the plan they have given to the city incorporates Green Architectures and Sustainable and Organic approach in its planning and design.",\
     "why_go" : "Rose Garden can now live up to its name as it is now surrounded with roses. The roses in different colors were dominant in the garden as it can be seen all around. Seats are also provided for those who visit the garden. There are also spaces provided wherein groups of teenagers may practice dance steps and play some sports like badminton. During the nights, the garden is lightened up with LED lights. The garden is also equipped with speakers to add more feeling to the ambiance, so visitors can sing along with the music.",\
     "map" : "../maps/parks/rose_garden.png",\
     "coord" : "",\
     "fare" : "N/A",\
-    "jeep_desc" : "Take the "It is located at Burnham Park already and you could just walk to go there.",\
+    "jeep_desc" : "Take the It is located at Burnham Park already and you could just walk to go there.",\
     "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
     "id" : "12",\
@@ -127,17 +127,17 @@ data = '[\
     "map" : "../maps/parks/sunshine_park.png",\
     "coord" : "350,92,420,165",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Greenwater" jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
+    "jeep_desc" : "Take the Greenwater jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
     "jeep_loc" : "../terminal/Parks/Sunshine-Park.JPG"\
 },{\
     "id" : "13",\
     "heading" : "Wright Park",\
-    "desc" : "Wright Park, which is located at the eastern part of the city and fronting the main gate of the Mansion, is one of the many scenic parks in Baguio City. Its main features are a shallow elongated rectangular body of water known as the "Pool of Pines" and the park circle which is on one end of the park. Postcard-type photographs are usually taken at both ends of Wright Park and when going there it is best to bring along a camera.",\
+    "desc" : "Wright Park, which is located at the eastern part of the city and fronting the main gate of the Mansion, is one of the many scenic parks in Baguio City. Its main features are a shallow elongated rectangular body of water known as the Pool of Pines and the park circle which is on one end of the park. Postcard-type photographs are usually taken at both ends of Wright Park and when going there it is best to bring along a camera.",\
     "why_go" : "Riding a pony is a favorite among children as well as adults. The place is usually crowded with people during sunny weekends and on holidays. With an accompanying guide, there are some ponies that may be rented and taken farther out along South Drive, the Mines View Park area or to Outlook Drive. For those who intend to take out a pony, it is advisable to first agree on the hourly cost to be charged.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
+    "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Parks/Wright-Park.JPG"\
 },{\
     "id" : "14",\
@@ -147,12 +147,12 @@ data = '[\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
+    "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Market/Good-Shepherd.JPG"\
 },{\
     "id" : "15",\
     "heading" : "Black Market",\
-    "desc" : "So, if you need to have a shoe re-soled or have your dollars changed, if you want to buy zucchini or "sayote," romaine lettuce or "kangkong," or perhaps buy yourself a bottle of Cordillera rice wine (called tapuey, sometimes tapuy or tapey) our market has it all. Rich and poor, everyone goes to the same market. Now that is really nice, is it? Located in the heart of the city, the market is at the base of Session Road on Magsaysay Avenue, near Burnham Park. Adjacent to it is the Maharlika Livelihood Center that complements the market with boutiques and other specialty shops, money changers, antique dealers, furniture stores, beauty parlors and other shops. A side entrance to Maharlika can be accessed via the city market dry goods section.",\
+    "desc" : "So, if you need to have a shoe re-soled or have your dollars changed, if you want to buy zucchini or sayote, romaine lettuce or kangkong, or perhaps buy yourself a bottle of Cordillera rice wine (called tapuey, sometimes tapuy or tapey) our market has it all. Rich and poor, everyone goes to the same market. Now that is really nice, is it? Located in the heart of the city, the market is at the base of Session Road on Magsaysay Avenue, near Burnham Park. Adjacent to it is the Maharlika Livelihood Center that complements the market with boutiques and other specialty shops, money changers, antique dealers, furniture stores, beauty parlors and other shops. A side entrance to Maharlika can be accessed via the city market dry goods section.",\
     "why_go" : "There are lots of stuffs to buy their cheaper than when you buy it from grocery store, and you can also do “tawad” or negotiate the price from the seller.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
@@ -162,7 +162,7 @@ data = '[\
 },{\
     "id" : "16",\
     "heading" : "Pasalubong Center",\
-    "desc" : "Pasalubong varies from the local delicacies found only in the place that you are visiting or their specialty products such as bags, clothes, footwear and souvenir items like key chain, ref magnets, mats, bags and others. Baguio is one of the best places to buy pasalubong for your families back home or souvenirs like wood carvings like the famous and “Barrel Man” to the the truly Pinoy, “Walis Tambo”. There are dozens and dozens more of Baguio pasalubong that you can buy almost everywhere in the City of Pines. Many of them are unique to Baguio such as Strawberries and Strawberry- based products like jams, preserves and wine, to fresh vegetables like broccoli and cauliflower, to  cheap sterling silver accessories, warm clothes like chaleco and cardigans, and even ukay ukay finds like branded handbags, shirts and shoes. You can find lot of places where you can buy affordable Baguio Souvenirs and Pasalubong. What is good about these are, most of these shops sell these goods at almost the same price.",\
+    "desc" : "Pasalubong varies from the local delicacies found only in the place that you are visiting or their specialty products such as bags, clothes, footwear and souvenir items like key chain, ref magnets, mats, bags and others. Baguio is one of the best places to buy pasalubong for your families back home or souvenirs like wood carvings like the famous and Barrel Man to the the truly Pinoy, Walis Tambo. There are dozens and dozens more of Baguio pasalubong that you can buy almost everywhere in the City of Pines. Many of them are unique to Baguio such as Strawberries and Strawberry- based products like jams, preserves and wine, to fresh vegetables like broccoli and cauliflower, to  cheap sterling silver accessories, warm clothes like chaleco and cardigans, and even ukay ukay finds like branded handbags, shirts and shoes. You can find lot of places where you can buy affordable Baguio Souvenirs and Pasalubong. What is good about these are, most of these shops sell these goods at almost the same price.",\
     "why_go" : "Pasalubong shopping is also one of the most awaited part of every Filipino traveler when on a trip or vacation. Every Pinoy wants to share what they seen and experience during their travels, thus they need to buy pasalubong  and souvenirs for their families and friends.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
@@ -177,32 +177,32 @@ data = '[\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Greenwater" jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
+    "jeep_desc" : "Take the Greenwater jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
     "jeep_loc" : "../terminal/Market/SM.JPG"\
 },{\
     "id" : "18",\
     "heading" : "University of the Philippines - Museo Kordilyera",\
-    "desc" : "Description of the tourist spot: The museum focuses on the collection, preservation and display of objects associated with the unique societies and cultures of the Cordillera region. The Museo Cordillera is a three-level structure with only its reception level visible on the surface which follows the University’s policy that the structures should integrate with the University’s terrain and topography for “sustainability and preservation of ecology”.",\
+    "desc" : "Description of the tourist spot: The museum focuses on the collection, preservation and display of objects associated with the unique societies and cultures of the Cordillera region. The Museo Cordillera is a three-level structure with only its reception level visible on the surface which follows the University’s policy that the structures should integrate with the University’s terrain and topography for sustainability and preservation of ecology.",\
     "why_go" : "It is the most recent museum to open in Baguio which means most of what you will see here is new to the eyes. If you are interested in ethnography, then this is a place you shouldn’t miss.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Museum/UP.JPG"\
 },{\
     "id" : "19",\
     "heading" : "Baguio Museum",\
-    "desc" : "The museum holds not only Baguio’s history but the Cordillera’s and a bit of Ifugao’s as well. On the main level of the museum, which is located on the second floor is a spread of artifacts from the region abound. On the other side, there are two detailed dioramas of various Cordilleran and Ifugao scenes displayed. On the ground floor, there are exhibits regarding the early years of the Americans in Baguio. The third floor of the Baguio Museum holds a detailed history of the city, from its pre-American period up to the current one. There are also old photographs of the city, complete with historical annotations of how the Americans discovered it and how the city came to be.",\
+    "desc" : "The museum holds not only Baguio’s history but the Cordilleras and a bit of Ifugaos as well. On the main level of the museum, which is located on the second floor is a spread of artifacts from the region abound. On the other side, there are two detailed dioramas of various Cordilleran and Ifugao scenes displayed. On the ground floor, there are exhibits regarding the early years of the Americans in Baguio. The third floor of the Baguio Museum holds a detailed history of the city, from its pre-American period up to the current one. There are also old photographs of the city, complete with historical annotations of how the Americans discovered it and how the city came to be.",\
     "why_go" : "Baguio is full of cultures and traditions which are too interesting not to learn about it. Baguio Museum offers artifacts, exhibits, and detailed history of not only Baguio but Cordillera and Ifugao as well. This is not the ordinary museum but it is a museum that tells the story of a beautiful place called Baguio. ",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Museum/Baguio-Museum.JPG"\
 },{\
     "id" : "20",\
     "heading" : "Aguinaldo Museum",\
-    "desc" : "The Aguinaldo Museum was established in 1985 by Cristina Suntay, a daughter of revolutionary figure, Emilio Aguinaldo and former resident of Baguio to host what the family claims to be the first Philippine flag. The temperature and dim lighting of the room where the flag is displayed is regulated as part of the preservation efforts on the flag. In 2011, it was reported that the flag may still be in a "good viewing state" for 20 to 30 years.",\
+    "desc" : "The Aguinaldo Museum was established in 1985 by Cristina Suntay, a daughter of revolutionary figure, Emilio Aguinaldo and former resident of Baguio to host what the family claims to be the first Philippine flag. The temperature and dim lighting of the room where the flag is displayed is regulated as part of the preservation efforts on the flag. In 2011, it was reported that the flag may still be in a good viewing state for 20 to 30 years.",\
     "why_go" : "Aguinaldo Museum holds the most symbolic artifact in the Philippines, the Philippine flag. Not only does it possess the Philippine flag but artifacts of the first President of the Philippines such as desks, armors, and weapons. It is a place filled with meaningful artifacts not everyone get the opportunity to see.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
@@ -212,12 +212,12 @@ data = '[\
 },{\
     "id" : "21",\
     "heading" : "Bell House Museum",\
-    "desc" : "Bell House was named after Major General J. Franklin Bell "who lived in that house as the commanding General of the American Forces in the Philippines." From 1911-1914, "General Bell transformed camp John Hay from essentially a small convalescent facility into a major military resort (Robert Reed)".",\
+    "desc" : "Bell House was named after Major General J. Franklin Bell who lived in that house as the commanding General of the American Forces in the Philippines. From 1911-1914, General Bell transformed camp John Hay from essentially a small convalescent facility into a major military resort (Robert Reed).",\
     "why_go" : "Not only does Bell house museum house historical items such as totem poles, it is surrounded with places such as Cemetery of Negativism, and it is also located in Camp John Hay, one of the most visited places in Baguio. Going to Bell House museum is definitely worth it considering the places located around it. ",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Museum/Bell-House-Museum.JPG"\
 },{\
     "id" : "22",\
@@ -232,22 +232,22 @@ data = '[\
 },{\
     "id" : "23",\
     "heading" : "Our Lady Of Lourdes",\
-    "desc" : "Our Lady of Lourdes is a Roman Catholic title of the Blessed Virgin Mary venerated in honour of the Marian apparitions that reportedly occurred in 1858 in the vicinity of Lourdes in France. Apart from its Beautiful altar, the church also houses a replica of the Grotto of Lourdes in France. It’s construction was ordered by former first lady Aurora Quezon in 1939.",\
+    "desc" : "Our Lady of Lourdes is a Roman Catholic title of the Blessed Virgin Mary venerated in honour of the Marian apparitions that reportedly occurred in 1858 in the vicinity of Lourdes in France. Apart from its Beautiful altar, the church also houses a replica of the Grotto of Lourdes in France. Its construction was ordered by former first lady Aurora Quezon in 1939.",\
     "why_go" : "Lourdes has become a place of pilgrimage and healing, but even more of faith. Church authorities have recognized over 60 miraculous cures, although there have probably been many more. To people of faith this is not surprising. It is a continuation of Jesus’ healing miracles—now performed at the intercession of his mother. Some would say that the greater miracles are hidden. Many who visit Lourdes return home with renewed faith and a readiness to serve God in their needy brothers and sisters.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
+    "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
     "jeep_loc" : "../terminal/Churches/Our-Lady-Of-Lourdes.JPG"\
 },{\
     "id" : "24",\
     "heading" : "Saint Vincent Church",\
-    "desc" : "Saint Vincent is a Roman Catholic church located at Naguilian, Baguio City. ",\
+    "desc" : "Saint Vincent is a Roman Catholic church located at Naguilian Rd., Baguio City. ",\
     "why_go" : "Another church to go if you are having retreat or visita igleisa during holy week or just attend a normal holy mass.",\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Quezon Hill" jeepney located in Kayang Street.",\
+    "jeep_desc" : "Take the Quezon Hill jeepney located in Kayang Street.",\
     "jeep_loc" : "../terminal/Churches/St-Vincent.JPG"\
 },{\
     "id" : "25",\
@@ -257,7 +257,7 @@ data = '[\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
-    "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
+    "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
     "jeep_loc" : "../terminal/Churches/Pink-Sisters.JPG"\
 },{\
     "id" : "26",\
@@ -267,6 +267,6 @@ data = '[\
     "map" : "../maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 8.00 (Students/S.C./PWD) <br> Php 10.00 (Regular)",\
-    "jeep_desc" : "Igorot Park across the terminal of BGH/Campo Sioco and take "Bakakeng" jeepney and ask the conductor if it would go pass through the Church.",\
+    "jeep_desc" : "Igorot Park across the terminal of BGH/Campo Sioco and take Bakakeng jeepney and ask the conductor if it would go pass through the Church.",\
     "jeep_loc" : "../terminal/Churches/Holy-Family-Church.jpg"\
 }]';
