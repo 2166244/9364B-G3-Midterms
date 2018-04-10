@@ -9,11 +9,7 @@ data = '[\
     "coord" : "85,97,127,137",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
-<<<<<<< HEAD
-    "jeep_pic" : "../paradahan-pics/Parks/Bell-Ampitheatre.JPG"\
-=======
     "jeep_loc" : "../terminal/parks/bell-ampitheatre.jpg"\
->>>>>>> cbb29643fa0d62fd1106188a7714008e5c6f5bf9
 },{\
     "id" : "1",\
     "heading" : "Bell Church",\
@@ -24,7 +20,7 @@ data = '[\
     "coord" : "520,645,538,664",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "La Trinidad" jeepney just in front of City Hall.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Bell-Church.JPG"\
+    "jeep_loc" : "../terminal/Parks/Bell-Church.JPG"\
 },{\
     "id" : "2",\
     "heading" : "Botanical Garden",\
@@ -35,7 +31,7 @@ data = '[\
     "coord" : "70,345,122,397",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop..",\
-    "jeep_pic" : "../paradahan-pics/Parks/Botanical-Garden.JPG"\
+    "jeep_loc" : "../terminal/Parks/Botanical-Garden.JPG"\
 },{\
     "id" : "3",\
     "heading" : "Childrens Park",\
@@ -46,7 +42,7 @@ data = '[\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located at Burnham Park already and you could just walk to go there.",\
-    "jeep_pic" : "../paradahan-pics/Parks/pwa_logo.png"\
+    "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
     "id" : "4",\
     "heading" : "Christmas Village",\
@@ -57,7 +53,7 @@ data = '[\
     "coord" : "75,154,120,203",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "Country Club" jeepney located in Bayanihian just across the terminal of Crystal Cave. Take note that Christmas Village is only open DURING the Christmas season.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Christmas-Village.JPG"\
+    "jeep_loc" : "../terminal/Parks/Christmas-Village.JPG"\
 },{\
     "id" : "5",\
     "heading" : "Igorot Park",\
@@ -68,7 +64,7 @@ data = '[\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "Just near burnham and where most of the terminals are near at.",\
-    "jeep_pic" : "../paradahan-pics/Parks/pwa_logo.png"\
+    "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
     "id" : "6",\
     "heading" : "Camp John Hay",\
@@ -79,7 +75,7 @@ data = '[\
     "coord" : "324,81,350,106",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Camp-John-Hay.JPG"\
+    "jeep_loc" : "../terminal/Parks/Camp-John-Hay.JPG"\
 },{\
     "id" : "7",\
     "heading" : "Rose Garden",\
@@ -90,7 +86,7 @@ data = '[\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located at Burnham Park already and you could just walk to go there.",\
-    "jeep_pic" : "../paradahan-pics/Parks/pwa_logo.png"\
+    "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
     "id" : "8",\
     "heading" : "The Mansion House",\
@@ -101,7 +97,7 @@ data = '[\
     "coord" : "55,259,95,302",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Mansion.JPG"\
+    "jeep_loc" : "../terminal/Parks/Mansion.JPG"\
 },{\
     "id" : "9",\
     "heading" : "Mines View Park",\
@@ -112,7 +108,7 @@ data = '[\
     "coord" : "52,375,84,408",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Mines-View.JPG"\
+    "jeep_loc" : "../terminal/Parks/Mines-View.JPG"\
 },{\
     "id" : "11",\
     "heading" : "Baguio Orchidarium",\
@@ -123,7 +119,7 @@ data = '[\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located at Burnham Park already and you could just walk to go there.",\
-    "jeep_pic" : "../paradahan-pics/Parks/pwa_logo.png"\
+    "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
     "id" : "12",\
     "heading" : "Panagbenga Park",\
@@ -134,7 +130,7 @@ data = '[\
     "coord" : "160,95,215,155",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the "Scout Barrio" jeepney.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Panagbenga-Park.JPG"\
+    "jeep_loc" : "../terminal/Parks/Panagbenga-Park.JPG"\
 },{\
     "id" : "13",\
     "heading" : "Baguio Rose Garden",\
@@ -145,7 +141,7 @@ data = '[\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "Take the "It is located at Burnham Park already and you could just walk to go there.",\
-    "jeep_pic" : "../paradahan-pics/Parks/pwa_logo.png"\
+    "jeep_loc" : "../terminal/Parks/pwa_logo.png"\
 },{\
     "id" : "14",\
     "heading" : "Sunshine Park",\
@@ -156,7 +152,7 @@ data = '[\
     "coord" : "350,92,420,165",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "Greenwater" jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Sunshine-Park.JPG"\
+    "jeep_loc" : "../terminal/Parks/Sunshine-Park.JPG"\
 },{\
     "id" : "14",\
     "heading" : "Wright Park",\
@@ -167,5 +163,5 @@ data = '[\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the "Mines View" jeepney located in Lower Mabini just across Danes Bakeshop.",\
-    "jeep_pic" : "../paradahan-pics/Parks/Wright-Park.JPG"\
+    "jeep_loc" : "../terminal/Parks/Wright-Park.JPG"\
 }]';
